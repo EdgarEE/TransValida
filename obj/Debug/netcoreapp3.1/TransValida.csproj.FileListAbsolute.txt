@@ -1,0 +1,11 @@
+C:\Users\Edgar\source\repos\TransValida\TransValida\obj\Debug\netcoreapp3.1\TransValida.csprojAssemblyReference.cache
+C:\Users\Edgar\source\repos\TransValida\TransValida\obj\Debug\netcoreapp3.1\TransValida.AssemblyInfoInputs.cache
+C:\Users\Edgar\source\repos\TransValida\TransValida\obj\Debug\netcoreapp3.1\TransValida.AssemblyInfo.cs
+C:\Users\Edgar\source\repos\TransValida\TransValida\bin\Debug\netcoreapp3.1\TransValida.exe
+C:\Users\Edgar\source\repos\TransValida\TransValida\bin\Debug\netcoreapp3.1\TransValida.deps.json
+C:\Users\Edgar\source\repos\TransValida\TransValida\bin\Debug\netcoreapp3.1\TransValida.runtimeconfig.json
+C:\Users\Edgar\source\repos\TransValida\TransValida\bin\Debug\netcoreapp3.1\TransValida.runtimeconfig.dev.json
+C:\Users\Edgar\source\repos\TransValida\TransValida\bin\Debug\netcoreapp3.1\TransValida.dll
+C:\Users\Edgar\source\repos\TransValida\TransValida\bin\Debug\netcoreapp3.1\TransValida.pdb
+C:\Users\Edgar\source\repos\TransValida\TransValida\obj\Debug\netcoreapp3.1\TransValida.dll
+C:\Users\Edgar\source\repos\TransValida\TransValida\obj\Debug\netcoreapp3.1\TransValida.pdb
